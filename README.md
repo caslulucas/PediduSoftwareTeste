@@ -19,7 +19,7 @@ Para algumas dependencias
 
 ### 3° `php artisan key:generate`
 
-Gerarar uma chave 
+Gerar uma chave 
 
 ### 4° `php artisan serve`
 
@@ -35,7 +35,7 @@ Para rodar o servidor
 
 Para DB foi utilizado phpMyadmin ( instale com o xampp)
 
-Apos acessar o banco, Crie um Db e verifique o arquivo .env em DB_DATABASE e digite o nome do banco criado para conectar.
+Após acessar o banco, Crie um Db e verifique o arquivo .env em DB_DATABASE e digite o nome do banco criado para conectar.
 
 ### 6° `php artisan migrate`
 
